@@ -1,0 +1,65 @@
+[
+  {
+    "nombre": "COMPUTER HOUSE",
+    "direccion": "Chimbote",
+    "latitud": -9.076060271485304,
+    "longitud": -78.59218796373091,
+    "productos": ["auriculares", "pc", "mouse", "monitor", "teclado", "webcam", "altavoces"]
+  },
+  {
+    "nombre": "TECH PERU",
+    "direccion": "Chimbote",
+    "latitud": -9.072901095623862,
+    "longitud": -78.59303350877107,
+    "productos": ["pc", "teclado", "mouse"]
+  },
+  {
+    "nombre": "COMPUPLUSS",
+    "direccion": "Chimbote",
+    "latitud": -9.072920814634315,
+    "longitud": -78.59304575971697,
+    "productos": ["tarjeta gráfica", "cpu", "pc"]
+  },
+  {
+    "nombre": "IMPORT R & L GAMING",
+    "direccion": "Chimbote",
+    "latitud": -9.07289405636364,
+    "longitud": -78.59333555901189,
+    "productos": ["mouse", "teclado", "auriculares"]
+  },
+  {
+    "nombre": "PCS WORLD SRL",
+    "direccion": "Chimbote",
+    "latitud": -9.073105446154937,
+    "longitud": -78.59261599839368,
+    "productos": ["silla gamer", "auriculares", "mouse", "webcam", "teclado"]
+  },
+  {
+    "nombre": "DOTECHPERU",
+    "direccion": "Nuevo Chimbote",
+    "latitud": -9.125750441477294,
+    "longitud": -78.51745529325346,
+    "productos": ["silla gamer", "pc", "cpu", "mouse"]
+  },
+  {
+    "nombre": "GLOBAL TECH",
+    "direccion": "Nuevo Chimbote",
+    "latitud": -9.128101010008356,
+    "longitud": -78.51796741252323,
+    "productos": ["webcam", "teclado", "mouse"]
+  },
+  {
+    "nombre": "JOTA TEC",
+    "direccion": "Nuevo Chimbote",
+    "latitud": -9.12770460540998,
+    "longitud": -78.5169169820063,
+    "productos": ["mouse", "teclado", "auriculares", "tarjeta gráfica"]
+  },
+  {
+    "nombre": "ULTRACOM",
+    "direccion": "Nuevo Chimbote",
+    "latitud": -9.125015170347723,
+    "longitud": -78.52806706780673,
+    "productos": ["mouse", "teclado"]
+  }
+]
